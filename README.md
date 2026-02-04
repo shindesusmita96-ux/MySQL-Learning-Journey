@@ -8,4 +8,4 @@ My progress of learning MySQL for Data Analysis through Youtube tutorials
 - WHERE
 - LIKE
 - Logical operators - AND, OR, NOT 
-GROUP BY
+- GROUP BY
