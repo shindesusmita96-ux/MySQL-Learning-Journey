@@ -9,3 +9,4 @@ My progress of learning MySQL for Data Analysis through Youtube tutorials
 - LIKE
 - Logical operators - AND, OR, NOT 
 - GROUP BY
+- ORDER BY
