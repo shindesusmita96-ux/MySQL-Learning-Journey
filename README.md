@@ -10,3 +10,6 @@ My progress of learning MySQL for Data Analysis through Youtube tutorials
 - Logical operators - AND, OR, NOT 
 - GROUP BY
 - ORDER BY
+- LIMIT
+- JOINS
+- UNION
