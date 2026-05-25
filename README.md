@@ -13,3 +13,6 @@ My progress of learning MySQL for Data Analysis through Youtube tutorials
 - LIMIT
 - JOINS
 - UNION
+- STRING FUNCTIONS
+- CASE STATEMENTS
+- SUBQUERIES
