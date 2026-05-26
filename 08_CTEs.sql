@@ -1,4 +1,4 @@
-# CTEs
+# CTEs - 'Common Table Expressions'
 
 WITH CTE_Example AS
 (
