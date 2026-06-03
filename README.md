@@ -20,3 +20,6 @@ My progress of learning MySQL for Data Analysis through Youtube tutorials
 - STRING FUNCTIONS
 - CASE STATEMENTS
 - SUBQUERIES
+- WINDOW FUNCTIONS
+- CTEs
+- TEMP TABLES
